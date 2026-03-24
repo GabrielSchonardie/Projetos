@@ -47,7 +47,7 @@ public class Calculadora {
                     if (n2 != 0) {
                         System.out.println("Resultado: " + (n1 / n2));
                     } else {
-                        System.out.println("Erro: divisão por zero!");
+                        System.out.println("Erro: divisão por zero");
                     }
                     break;
 
@@ -68,7 +68,7 @@ public class Calculadora {
                     break;
 
                 default:
-                    System.out.println("Opção inválida!");
+                    System.out.println("Opção inválida");
             }
 
         } while (opcao != 0);
