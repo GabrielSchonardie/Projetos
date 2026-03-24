@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-class cadastroProduto {
-
+public class cadastroProduto {
     public static void main (String[] args) {
 
         Scanner read = new Scanner(System.in);
